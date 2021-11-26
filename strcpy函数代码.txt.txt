@@ -8,6 +8,7 @@ char*StrCpy(char*src)
    dst[i]=src[i];
    dst[len]='\0';
    return dst;
+<<<<<<< HEAD
 
    远程edit
    **/
@@ -18,3 +19,6 @@ char*StrCpy(char*src)
    **/
 } 
 
+=======
+}
+>>>>>>> parent of 87aba8b (Update strcpy函数代码.txt.txt)
